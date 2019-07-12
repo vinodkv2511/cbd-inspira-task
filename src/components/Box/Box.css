@@ -1,0 +1,24 @@
+.inspiracbd-box{
+    min-width: 32px;
+    height: 32px;
+    padding: 4px 8px;
+    display: inline-flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    border-top: 3px solid transparent;
+    margin: 10px 5px;
+}
+
+.inspiracbd-box-odd {
+    background: blue;
+}
+
+.inspiracbd-box-even {
+    background: black;
+}
+
+.inspiracbd-box-fifth {
+    border-top: 5px solid orange;
+}
+

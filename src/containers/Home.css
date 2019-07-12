@@ -1,0 +1,21 @@
+.buttons-container{
+    display: flex;
+    max-width: 200px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px auto;
+}
+
+.buttons-container > button {
+    padding: 5px 12px;
+    color: white;
+}
+
+.boxes-container{
+    display: flex;
+    width: 85%;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+}
