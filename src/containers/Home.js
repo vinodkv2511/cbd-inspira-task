@@ -58,7 +58,7 @@ class Home extends Component {
                 }
 
                 <p style={{
-                    fontSize: 10+this.state.boxCount
+                    fontSize: 15+this.state.boxCount+"px"
                 }}>
                     {this.state.boxCount}
                 </p>
